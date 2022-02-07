@@ -1,8 +1,8 @@
 # MovieApp(ITI Graduated summer course)
 view a set of films with(trailer,rate,release year,review)
 
-#Usage
+# Usage
 MVC,Alamofire,CoreData,Cosmos Pod,CompositionalLayout
 
-#VideoReview
+# VideoReview
 
